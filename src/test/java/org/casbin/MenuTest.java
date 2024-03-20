@@ -46,6 +46,7 @@ public class MenuTest {
             }
         }
 
+
         try {
             writer.flush();
         } catch (IOException e) {
